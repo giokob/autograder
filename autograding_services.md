@@ -57,4 +57,12 @@
 - create assignments with starter code and collect student work in one place
 - getting students used to version control (w/ git)
 
+
 ### [Open Edx](https://open.edx.org/)
+
+**Price**: Free, but not hosting provided
+
+**Supported languages**: no autograding out of the box
+
+**Features**: 
+- LMS included for all the course content, assignments, schedules, etc.
