@@ -66,3 +66,38 @@
 
 **Features**: 
 - LMS included for all the course content, assignments, schedules, etc.
+
+### [Autolab](http://www.autolabproject.com/)
+
+**Price**: Free
+
+**Supported languages**: C, C++, Python, Java, etc.
+
+**Features**: 
+- open source
+- leaderboards
+- code annotation (inline comments to students)
+- plagiarism check
+
+### [Ok.py](https://okpy.org/)
+
+**Price**: Free
+
+**Supported languages**: Python, Jupyter Notebook (may be more)
+
+**Features**: 
+- open source
+- plagarism check (checks for online solutions as well)
+- manual + automated feedback
+- course level statistics for instructors
+
+### [Submitty](https://submitty.org/)
+
+**Price**: Free
+
+**Supported languages**: Python, C/C++, Java, etc.
+
+**Features**: 
+- open source
+- secure code testing
+- useful plugins available
