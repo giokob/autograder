@@ -1,6 +1,6 @@
 # List of services for autograding
 
-### [Autogradr](https://www.autogradr.com/)
+### ~~[Autogradr](https://www.autogradr.com/)~~ (not useful yet)
 
 **Price**: Free
 
